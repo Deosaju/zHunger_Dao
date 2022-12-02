@@ -16,7 +16,7 @@
 ## How it Works ?
 Explaining the working of project  
 <div>
-<a href="https://www.youtube.com/watch?v=W3BlYvWNTrg" title="Link Title"></a>
+[Video Link](https://www.youtube.com/watch?v=W3BlYvWNTrg)
 </div>
 
 ## Technologies used
