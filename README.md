@@ -1,30 +1,31 @@
 ![image](./assets/banner.png)
 
 
-# {Project Name} - MAGNATHON
-Tell us about your project here
+# zHunger DAO - MAGNATHON
+> It's a DAO based project deployed on aragon and using Ethereum network. It helps Manage food management system both in distribution of Extra Food and disposing the others.
 
 ## Team Members
-[1.Team Member 1](enter_github_profile_url)   
-[2.Team Member 2](enter_github_profile_url)   
-[3.Team Member 3](enter_github_profile_url)   
-[4.Team Member 4](enter_github_profile_url)   
+[1.Deo Saju](https://github.com/deosaju)   
+[2.Aneena E A](https://github.com/Aneenaanu321)   
+[3.Nazish Mohammed](https://github.com/nazishmohammed)   
+[4.Maria rose](https://github.com/23maria)   
 
 ## Link to Project
-[Embed the live link of project](live_link)
+[Live view](https://app-zhunger-nextjs.vercel.app/)
 
 ## How it Works ?
 Explaining the working of project  
-Embed video of project demo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W3BlYvWNTrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Technologies used
-List out tech stacks you have used
+> React.js , Next.js , web3.js , Ethereum smart contracts , Replit 
 
 ## How to configure
 Instructions for setting up project
+> Install using : yarn install
 
 ## How to Run
-Instructions for running
+> Test using npm run start & npm run dev
 
 ## Other Links
-Provide any other links ( for eg. Wireframe , UI )
+> [Replit Test](https://appzhungernextjs.scrapyboy.repl.co/)
