@@ -15,7 +15,7 @@
 
 ## How it Works ?
 Explaining the working of project  
-[Live view](https://www.youtube.com/watch?v=W3BlYvWNTrg/)
+![Video](https://www.youtube.com/watch?v=W3BlYvWNTrg/)
 
 
 ## Technologies used
