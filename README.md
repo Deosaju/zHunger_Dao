@@ -16,8 +16,9 @@
 ## How it Works ?
 Explaining the working of project  
 <div>
-  <video autoplay control> <source src="https://www.youtube.com/embed/W3BlYvWNTrg"></source></video>
+  <video autoplay control> <source src=""></source></video>
 </div>
+[![Alternate Text]({[image-url](https://www.google.com/url?sa=i&url=https%3A%2F%2Fanalyticsindiamag.com%2F6-ways-to-brush-up-and-stay-sharp-on-coding-practices-before-your-next-job%2F&psig=AOvVaw1W3ZC2EM2dmbnXIeDOZsST&ust=1670051725494000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNiVydGx2vsCFQAAAAAdAAAAABAD)})]({[video-url](https://www.youtube.com/watch?v=W3BlYvWNTrg)} "Recording")
 
 ## Technologies used
 > React.js , Next.js , web3.js , Ethereum smart contracts , Replit 
