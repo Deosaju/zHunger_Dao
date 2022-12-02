@@ -16,7 +16,7 @@
 ## How it Works ?
 Explaining the working of project  
 <div>
-[Video Link](https://www.youtube.com/watch?v=W3BlYvWNTrg)
+![Video Link](https://www.youtube.com/watch?v=W3BlYvWNTrg)
 </div>
 
 ## Technologies used
