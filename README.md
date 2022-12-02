@@ -16,7 +16,7 @@
 ## How it Works ?
 Explaining the working of project  
 <div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W3BlYvWNTrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <video autoplay control> <source src="https://www.youtube.com/embed/W3BlYvWNTrg"></source></video>
 </div>
 
 ## Technologies used
