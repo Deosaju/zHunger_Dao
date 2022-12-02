@@ -15,8 +15,7 @@
 
 ## How it Works ?
 Explaining the working of project  
-![Video](https://www.youtube.com/watch?v=W3BlYvWNTrg/)
-
+[Video](https://www.youtube.com/watch?v=W3BlYvWNTrg/)
 
 ## Technologies used
 > React.js , Next.js , web3.js , Ethereum smart contracts , Replit 
